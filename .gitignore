@@ -1,0 +1,5 @@
+/node_modules
+/src/database/migrations
+/src/database/config/config.json
+requests.rest
+/src/.env
